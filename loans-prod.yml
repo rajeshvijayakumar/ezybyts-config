@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 loans:
-  message: "Hey, welcome to EazyBank loans related prod APIs "
+  message: "Hey, welcome to EazyBank accounts related production APIs"
   contactDetails:
-    name: "Pelias Sudhir - Product Owner"
-    email: "pelias@eazybank.com"
+    name: "Rajesh Vijayakumar - Product Owner"
+    email: "info@rajeshvijayakumar.com"
   onCallSupport:
-    - (723) 656-8709
-    - (156) 342-0956
+    - (936) 307-9625
+    - (936) 370-9625
