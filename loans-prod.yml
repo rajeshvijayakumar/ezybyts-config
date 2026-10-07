@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 loans:
-  message: "Hey, welcome to EazyBank accounts related prod APIs"
+   message: "{cipher}d5264d15f4332d18cf88d4c28f002fc821fb4072b5c645799dded67a54d2e08c96b157ee4b75ceafa951407b109458e3e4f530c621db44862be32222549974cf5af7f50ea3870aca394ce88cd3e95cff"
   contactDetails:
-    name: "Rajesh Vijayakumar - Product Owner"
-    email: "info@rajeshvijayakumar.com"
+    name: "{cipher}569a7ee7c82497cc0e7a2ea35f196e946645ea227cfe8f3d1550494dc20d3acf0cd500ae45c236a28e0e9427c11bc86e665ccb26e6b9a9283088dd755958f209
+    email: "{cipher}e3b49f822afae912ba1bec26869fc4c8d1b0333452390724d890385ecc0c40e4714140aee033b91bed3a31394c1352d0"
   onCallSupport:
     - (936) 307-9625
     - (936) 370-9625
