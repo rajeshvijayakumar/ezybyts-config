@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, welcome to EazyBank accounts related webhooks APIs"
+  message: "Hey, welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "Rajesh Vijayakumar - Product Owner"
     email: "info@rajeshvijayakumar.com"
